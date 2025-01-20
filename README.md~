@@ -11,7 +11,7 @@ source ~/cymetric/bin/activate
 python Model_13_Do.py 0.0000 'phi'
 ```
 
-This calculates the matter fields Yukawa couplings for the second model in the [per](https://), for the stabilised value of the K\"ahler moduli, and for complex structure modulus $\psi=0$.
+This calculates the matter fields Yukawa couplings for the second model in the [paper](https://), for the stabilised value of the K\"ahler moduli, and for complex structure modulus $\psi=0$.
 
 # Example output of calculation
 

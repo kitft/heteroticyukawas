@@ -1,6 +1,6 @@
 # heteroticyukawas 
 
-heteroticyukawas is a package designed to calculate the Yukawa couplings/quark masses of general line bundles on the tetraquadric. Necessary inputs are the complex and K\"ahler moduli, line bundle indices, and closed representatives of the 1-form bundle cohomology.
+*fheteroticyukawas* is a package designed to calculate the Yukawa couplings/quark masses of general line bundles on the tetraquadric. Necessary inputs are the complex and K\"ahler moduli, line bundle indices, and closed representatives of the 1-form bundle cohomology.
 
 Given that, it calculates, using NN models in TensorFlow, Calabi-Yau metrics, bundle metrics and harmonic representatives of the cohomology. It is based off cymetric, a Python package for learning of moduli-dependent Calabi-Yau metrics using neural networks implemented in TensorFlow.
 
