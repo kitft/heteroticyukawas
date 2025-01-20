@@ -75,19 +75,5 @@ We summarize the mathematical conventions we use in [this .pdf file](./assets/co
 We welcome contributions to the project. Those can be bug reports or new features, 
 that you have or want to be implemented. Please read more [here](CONTRIBUTING.md).
 
-## Citation
 
-You can find our paper on the [arXiv](https://arxiv.org/abs/2111.01436). It will be presented at the [ML4PS workshop](https://ml4physicalsciences.github.io/2021/) of [NeurIPS 2021](https://neurips.cc/Conferences/2021/Schedule?showEvent=21862). If you find this package useful in your work, cite the following bib entry:
-
-```
-@article{Larfors:2021pbb,
-    author = "Larfors, Magdalena and Lukas, Andre and Ruehle, Fabian and Schneider, Robin",
-    title = "{Learning Size and Shape of Calabi-Yau Spaces}",
-    eprint = "2111.01436",
-    archivePrefix = "arXiv",
-    primaryClass = "hep-th",
-    reportNumber = "UUITP-53/21",
-    year = "2021",
-    journal = "Machine Learning and the Physical Sciences, Workshop at 35th NeurIPS",
-}
 ```
